@@ -1,0 +1,45 @@
+# Compiled Java classes
+*.class
+
+# Java build directories
+target/
+build/
+out/
+bin/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# IDE and editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Coverage and test reports
+coverage/
+jacoco.exec
